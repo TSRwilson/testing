@@ -3,10 +3,10 @@
     <channel>
         <!-- Huawei item -->
         <item>
-            <title>Version 1.45 for Android</title>
-            <sparkle:version>1.45</sparkle:version>
+            <title>Version 1.46 for Huawei</title>
+            <sparkle:version>1.46</sparkle:version>
             <description>Minor updates and improvements for Android.</description>
-            <enclosure url="https://appgallery.huawei.com/app/C108818991?sharePrepath=ag" sparkle:version="1.45" sparkle:os="android"/>
+            <enclosure url="https://appgallery.huawei.com/app/C108818991?sharePrepath=ag" sparkle:version="1.46" sparkle:os="android"/>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
