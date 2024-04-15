@@ -14,10 +14,10 @@
 
         <!-- iOS item -->
         <item>
-            <title>Version 2.55 for iOS</title>
-            <sparkle:version>2.55</sparkle:version>
+            <title>Version 2.56 for iOS</title>
+            <sparkle:version>2.56</sparkle:version>
             <description>Minor updates and improvements for iOS.</description>
-            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="2.55" sparkle:os="ios"/>
+            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="2.56" sparkle:os="ios"/>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
