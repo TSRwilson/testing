@@ -7,7 +7,16 @@
             <title>Version 8.0.0</title>
             <description>Critical update</description>
             <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="8.0.0" sparkle:os="android" />
+            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="8.0.0" sparkle:os="ios" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item>
+          <item>
+            <title>Version 8.0.0</title>
+            <description>Critical update</description>
+            <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.universalapps.menumizpos" sparkle:version="8.0.0" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
