@@ -11,7 +11,7 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-                      <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+                      <sparkle:minimumSystemVersion>1.45.0</sparkle:minimumSystemVersion>
 
         </item>
     </channel>
