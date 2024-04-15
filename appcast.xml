@@ -21,5 +21,10 @@
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
         </item>
+         <item>
+        <title>Version 5.0</title>
+        <sparkle:version>5.0</sparkle:version>
+        <sparkle:maximumSystemVersion>5.0</sparkle:maximumSystemVersion>
+    </item>
     </channel>
 </rss>
