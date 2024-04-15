@@ -3,15 +3,6 @@
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>My app - Appcast</title>
-        <item>
-            <title>Version 8.0.0</title>
-            <description>Critical update</description>
-            <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="8.0.0" sparkle:os="ios" />
-            <sparkle:tags>
-                <sparkle:criticalUpdate/>
-            </sparkle:tags>
-        </item>
           <item>
             <title>Version 8.0.0</title>
             <description>Critical update</description>
@@ -20,11 +11,8 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
+                      <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+
         </item>
-         <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>5.0</sparkle:maximumSystemVersion>
-    </item>
     </channel>
 </rss>
