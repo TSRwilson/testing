@@ -3,10 +3,10 @@
     <channel>
         <!-- Android item -->
         <item>
-            <title>Version 1.45.0 for Android</title>
-            <sparkle:version>1.45.0</sparkle:version>
+            <title>Version 1.45 for Android</title>
+            <sparkle:version>1.45</sparkle:version>
             <description>Minor updates and improvements for Android.</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.universalapps.menumizpos" sparkle:version="1.45.0" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.universalapps.menumizpos" sparkle:version="1.45" sparkle:os="android"/>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
@@ -14,10 +14,10 @@
 
         <!-- iOS item -->
         <item>
-            <title>Version 2.56.0 for iOS</title>
-            <sparkle:version>2.56.0</sparkle:version>
+            <title>Version 2.56 for iOS</title>
+            <sparkle:version>2.56</sparkle:version>
             <description>Minor updates and improvements for iOS.</description>
-            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="2.56.0" sparkle:os="ios"/>
+            <enclosure url="https://apps.apple.com/us/app/menumiz-pos/id1633411043" sparkle:version="2.56" sparkle:os="ios"/>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
